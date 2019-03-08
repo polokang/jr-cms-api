@@ -1,2 +1,2 @@
-# jr-eb-deploy
-jr-cms backend
+# jr-cms-api
+jr-cms-api backend
